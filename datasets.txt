@@ -1,0 +1,6 @@
+1. Market data (??)         - agmarknet.gov.in
+2. Rainfall (Weather)       - ISRO
+3. Irrigation               - ISRO
+4. Seed                     - agriinfor.info.in
+5. Crop requirements (???)
+6. Soil data                - VEDAS
